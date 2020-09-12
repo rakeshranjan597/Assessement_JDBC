@@ -127,5 +127,9 @@ public class MobileAppDAO_JDBC implements MobileAppDAO{
 		return null;
 	}
 
+	public rakeshRanjan(String name) {
+		system.out.println(name);
+	}
+
 
 }
