@@ -15,5 +15,7 @@ public interface MobileAppDAO {
 	int editContact(Person p);
 	
 	Person searchContact(String name);
+
+	hii(String name);
 	
 }
