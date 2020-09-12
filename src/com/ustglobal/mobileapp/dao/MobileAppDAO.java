@@ -16,6 +16,4 @@ public interface MobileAppDAO {
 	
 	Person searchContact(String name);
 
-	int hiiii();
-	
 }
