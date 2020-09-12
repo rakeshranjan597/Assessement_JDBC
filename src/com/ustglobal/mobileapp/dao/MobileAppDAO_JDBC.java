@@ -131,6 +131,7 @@ public class MobileAppDAO_JDBC implements MobileAppDAO{
 	public hii(String name) {
 		if (name != null) {
 			system.out.println(name);
+			system.out.println(name);
 		}
 	}
 
