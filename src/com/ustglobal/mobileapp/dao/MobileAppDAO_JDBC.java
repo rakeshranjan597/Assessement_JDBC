@@ -127,6 +127,4 @@ public class MobileAppDAO_JDBC implements MobileAppDAO{
 		return null;
 	}
 
-
-	String x = "Rakesh";
 }
