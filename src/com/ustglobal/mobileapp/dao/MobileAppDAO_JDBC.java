@@ -127,13 +127,4 @@ public class MobileAppDAO_JDBC implements MobileAppDAO{
 		return null;
 	}
 
-	@Override
-	public hii(String name) {
-		if (name != null) {
-			system.out.println(name);
-			system.out.println(name);
-			system.out.println(name);
-		}
-	}
-
 }
